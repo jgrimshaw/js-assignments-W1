@@ -12,4 +12,4 @@ function countLetters (str){
   return output
 }
 
-console.log(JSON.stringify(countLetters('lighthouse labs'), null, 2))
+console.log(JSON.stringify(countLetters('lighthouse in the house'), null, 2))
